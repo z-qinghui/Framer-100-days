@@ -7,3 +7,5 @@ Day01 flipHeart<br />一颗随着时间流逝不停翻页的心
 Day02 money<br />让余额宝的收益飞
 
 ![money.gif](https://cdn.nlark.com/yuque/0/2019/gif/176310/1547888440051-9b013cba-8267-4382-aca3-6e5af1d7f28b.gif#align=left&display=inline&height=960&linkTarget=_blank&name=money.gif&originHeight=960&originWidth=544&size=2166314&width=544)
+
+Day03 dynamicLogo<br />动态展示Logo演绎<br />![Day03 dynamicLogo.gif](https://cdn.nlark.com/yuque/0/2019/gif/176310/1548075447587-28a9818a-12af-4752-a1ad-4a84d35db491.gif#align=left&display=inline&height=960&linkTarget=_blank&name=Day03%20dynamicLogo.gif&originHeight=960&originWidth=544&size=1359178&width=544)
